@@ -2,7 +2,7 @@
   "redirects": [
     { "source": "/me", "destination": "/profile.html" },
     { "source": "/user", "destination": "/api/user", "permanent": false },
-    { "source": "/", "destination": "https://example.com" },
+    { "source": "/", "destination": "/" },
     {
       "source": "/:path((?!uk/).*)",
       "has": [
